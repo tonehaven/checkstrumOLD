@@ -137,3 +137,12 @@ musically-timed succession (arpeggio).
 The group of notes in a single harmony is called a chord.
 
 ...
+
+
+[Chord Scale Generator](http://www.pluck-n-play.com/en/index.html)
+[Scale and Chord Generator](https://12bar.de/php/scale_generator.php)
+[Chord and Scale Printer](https://www.studybass.com/tools/chord-scale-note-printer/)
+[Look no Hands](http://www.looknohands.com/chordhouse/guitar/index_rb.html)
+[gootar](http://www.gootar.com/)
+[Wikipedia Guitar Chords](https://en.wikipedia.org/wiki/Guitar_chord)
+[Regular Tunings for Guitar](https://sethares.engr.wisc.edu/alternatetunings/regulartunings.pdf)

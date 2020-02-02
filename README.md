@@ -1,6 +1,7 @@
 # chordings
 **Find, describe, and display chord voicings for string instruments featuring necks and fretboards.**
 
+**THIS PROJECT IS NOT STARTED YET!  IT IS JUST A SET OF THOUGHTS AT THIS POINT.**
 ## Project Objectives
 A python library of tools for:
 * machine-oriented description of string instruments
